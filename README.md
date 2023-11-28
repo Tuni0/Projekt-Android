@@ -22,7 +22,7 @@ Prosta i skrócona instrukcja obsługi, niebieskie nazwy projektów, na przykła
 
 ### Zaliczone na 5.0
 
-## [Project 3 - 28.11.2023](brakLinku)
+## [Project 3 - 28.11.2023](https://github.com/Tuni0/Laboratorium3-Android)
 projekt realizowany w grupach
 
 |Ocena|Zadanie|Wykonano|
