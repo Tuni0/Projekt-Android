@@ -30,3 +30,5 @@ projekt realizowany w grupach
 |3.0|połączenie się z Firebase|✅|
 |4.0|wysyłanie danych z Firebase|✅|
 |5.0|odczytanie danych z Firebase|✅|
+
+### Zaliczone na 5.0
