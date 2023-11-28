@@ -27,6 +27,6 @@ projekt realizowany w grupach
 
 |Ocena|Zadanie|Wykonano|
 |---|---|---|
-|3.0|połączenie się z Firebase||
-|4.0|odczytanie danych z Firebase||
-|5.0|aplikacja wykorzystująca Firebase, zapalanie i gaszenie diody itp. ||
+|3.0|połączenie się z Firebase|✅|
+|4.0|wysyłanie danych z Firebase|✅|
+|5.0|odczytanie danych z Firebase|✅|
